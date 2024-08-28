@@ -2,7 +2,7 @@
 body {
   font-family: 'Arial', sans-serif;
   background-color: #242323;
-  color: #d2cfcf;
+  color: #dbd2d2;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -27,7 +27,7 @@ input[type='text'] {
 }
 
 input[type='text']::placeholder {
-  color: #888;
+  color: #888888;
 }
 
 input[type='text']:focus {
